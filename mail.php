@@ -36,7 +36,7 @@ if (count($errors) > 0) {
     <br><br><b>Комментарий:</b><br> '.$fieldComment.'
     <br><br><b>Хвост:</b><br>'.$_SESSION['ref'];
 
-    $to = 'bonic100@yandex.ru,shaklunov@adequo.ru';
+    $to = 'shak@mail.ru';
     //$to = "deepric@mail.ru";
     $subject = 'Заказ звонка с ЛП Новое место (r-septik.ru/new)';
 
