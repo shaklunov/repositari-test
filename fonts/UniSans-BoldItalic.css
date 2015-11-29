@@ -1,0 +1,12 @@
+/* Webfont: UniSans-BoldItalic */@font-face {
+    font-family: 'UniSansRegular';
+    src: url('UniSans-BoldItalic.eot'); /* IE9 Compat Modes */
+    src: url('UniSans-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('UniSans-BoldItalic.woff') format('woff'), /* Modern Browsers */
+         url('UniSans-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('UniSans-BoldItalic.svg#UniSans-BoldItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
