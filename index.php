@@ -135,7 +135,6 @@ header('Content-type: text/html; charset=UTF-8');
 					<li><img src="img/montage09.jpg" alt=""></li>
 					<li><img src="img/montage10.jpg" alt=""></li>
 					<li><img src="img/montage11.jpg" alt=""></li>
-					<li><img src="img/montage12.jpg" alt=""></li>
 				</ul>
 			</div>
 
@@ -152,14 +151,13 @@ header('Content-type: text/html; charset=UTF-8');
 				<a class="js-setimg" data-slide-index="9" href=""><img src="img/montage09-small.jpg" alt=""></a>
 				<a class="js-setimg" data-slide-index="10" href=""><img src="img/montage10-small.jpg" alt=""></a>
 				<a class="js-setimg" data-slide-index="11" href=""><img src="img/montage11-small.jpg" alt=""></a>
-				<a class="js-setimg" data-slide-index="12" href=""><img src="img/montage12-small.jpg" alt=""></a>
 			</div>
 		</div>
 
 		<div class="section winter">
         	<h2 class="section-title_blue  wow  fadeInDown">Установить септик зимой ДЕШЕВЛЕ!</h2>
             <div class="container_960">
-                <div class="winter_sub_title"><img src="img/number1.jpg" alt=""> 
+                <div class="winter_sub_title"><img src="img/number1.jpg" alt="">
                     Весной <b>происходит рост цен</b> и <b>снижение скидок</b> на станции
                 </div>
                 <p>На примере прошлогодней стоимости септика на 5 человек:</p>
@@ -192,15 +190,15 @@ header('Content-type: text/html; charset=UTF-8');
                         </tr>
                     </tbody>
                 </table>
-                
+
                 <div class="winter-title_center">
                 	<span class="winter-label">Доплата <b>за станцию</b> составит от <b>14 245 руб!</b></span>
                 </div>
 
-		        <div class="winter_sub_title"><img src="img/number2.jpg" alt=""> 
-                	Весной из за обилия талых вод <b>вероятность возникновения "плывуна"</b> достигает 35% 
+		        <div class="winter_sub_title"><img src="img/number2.jpg" alt="">
+                	Весной из за обилия талых вод <b>вероятность возникновения "плывуна"</b> достигает 35%
                 </div>
-                
+
                 <table>
                     <tbody>
                         <tr>
@@ -228,11 +226,11 @@ header('Content-type: text/html; charset=UTF-8');
                         </tr>
                     </tbody>
                 </table>
-                
+
                 <div class="winter-title_center">
                 	<span class="winter-label">Доплата <b>за монтаж</b> составит от <b>18 000 руб!</b></span>
                 </div>
-        	
+
             	<h4 class="section-title_blue_h4"><b>ОТКЛАДЫВАЯ ПОКУПКУ</b> на весну вы <b>ПЕРЕПЛАТИТЕ</b> в среднем <b>25 000</b> рублей</h4>
 				<div class="section-title_blue">
                 <button class="btn-blue2  js-fancymodal" data-fancybox-href="#callback" data-target="callback" type="button">Хочу сэкономить</button>
@@ -252,7 +250,7 @@ header('Content-type: text/html; charset=UTF-8');
 					<li class="benefits-list-item  benefits-list-6">3 года гарантии</li>
 					<li class="benefits-list-item  benefits-list-7"></li>
 				</ul>
-                
+
                 <!--
              <div class="benefits-puzzle  wow  fadeIn">
                 <ul class="benefits-list">
@@ -286,10 +284,10 @@ header('Content-type: text/html; charset=UTF-8');
 		<div class="section summer">
             <h2 class="section-title_red  wow  fadeInDown">Производители уже подняли цены в среднем на 15 000 рублей</h2>
 			<!--<h2 class="section-title_suboffer  wow  fadeInDown">Купи септик по летним ценам уже сейчас!</h2>-->
-			<h2 class="section-title_suboffer">На складе сохранился остаток станций по ценам лета 2015 г. 
-            <br><span class="section-title_subofferR"><b>В наличии 38 септиков. Успейте сэкономить!</b></span></h2>     
-            
-       
+			<h2 class="section-title_suboffer">На складе сохранился остаток станций по ценам лета 2015 г.
+            <br><span class="section-title_subofferR"><b>В наличии 38 септиков. Успейте сэкономить!</b></span></h2>
+
+
             <div class="container_960">
                 <table class="summer_table">
                     <tbody>
@@ -301,7 +299,7 @@ header('Content-type: text/html; charset=UTF-8');
                                     <p class="summer_sub_info"><img src="img/icon_red.png" alt=""> &nbsp;Септик будет храниться на нашем складе</p>
                                     <p class="summer_sub_info"><img src="img/icon_red.png" alt=""> &nbsp;Доставим по первому требованию</p>
                                 	<p class="summer-economy">Ваша экономия от <b>14 245 руб!</b></p>
-                                    
+
                                     <div class="call  js-call" id="call">
                                       <form action="mail.php" class="formS">
                                           <div class="formS-fields">
@@ -316,14 +314,14 @@ header('Content-type: text/html; charset=UTF-8');
                                               <div class="formS-row  clearfix">
                                                   <div class="formS-label"></div>
                                                   <button class="formS-send btn-green" data-target="economy" onclick="yaCounter32793735.reachGoal('economy'); return true;">Хочу сэкономить</button>
-  
+
                                               </div>
                                           </div>
                                           <div class="formS-status" style="display:none;">
                                               <div class="formS-status-big">Спасибо!</div>
                                               <div class="formS-status-small">Ваша заявка принята. Мы перезвоним Вам <br>в самое ближайшее время.</div>
                                           </div>
-                                  
+
                                       </form>
                                 	</div>
                                 </div>
@@ -349,7 +347,7 @@ header('Content-type: text/html; charset=UTF-8');
                                               <div class="formS-row  clearfix">
                                                   <div class="formS-label"></div>
                                                   <button class="formS-send btn-green" data-target="economy" onclick="yaCounter32793735.reachGoal('economy'); return true;">Хочу сэкономить</button>
-  
+
                                               </div>
                                           </div>
                                       <div>
@@ -396,8 +394,8 @@ header('Content-type: text/html; charset=UTF-8');
             <h1 class="section-title2_red  wow  fadeInDown">Нам исполнилось 13 лет! Максимальные скидки на станции!</h1>
             <!--<h2 class="section-title_offer  wow  fadeInDown">АКЦИЯ:</h2>-->
             <h2 class="section-title_black  wow  fadeInDown">Топас + Доставка + Монтаж и шеф-монтаж</h2>
-			<h2 class="section-title_offer  wow  fadeInDown">всего за 89 300 руб!</h2>            
-			<div class="septic_list-tabs_wr  container_960">					
+			<h2 class="section-title_offer  wow  fadeInDown">всего за 89 300 руб!</h2>
+			<div class="septic_list-tabs_wr  container_960">
                     <div class="tabs-tabs">
 						<div class="tabs-item  clearfix active">
 							<div class="offer_list-item">
@@ -487,7 +485,7 @@ header('Content-type: text/html; charset=UTF-8');
 					</div>
 
 				</div>
-                
+
             </div>
 
             <h3 class="section-title2_black  wow  fadeInDown">Свяжитесь с нами и <span class="section-title2_red">получите более выгодное предложение </span>от нашего менеджера!</h3>
@@ -859,7 +857,7 @@ header('Content-type: text/html; charset=UTF-8');
                         <li><a class="js-fancy" href="img/cert06_big.jpg" data-fancybox-group="cert"><img src="img/cert06.png" alt=""></a></li>
                         <li><a class="js-fancy" href="img/cert08_big.jpg" data-fancybox-group="cert"><img src="img/cert08.png" alt=""></a></li>
                         <li><a class="js-fancy" href="img/cert04_big.jpg" data-fancybox-group="cert"><img src="img/cert04.png" alt=""></a></li>
-                        
+
                         <li><a class="js-fancy" href="img/cert05_big.jpg" data-fancybox-group="cert"><img src="img/cert05.png" alt=""></a></li>
                         <li></li>
                         <li><a class="js-fancy" href="img/cert03_big.jpg" data-fancybox-group="cert"><img src="img/cert03.png" alt=""></a></li>
@@ -894,7 +892,7 @@ header('Content-type: text/html; charset=UTF-8');
                         <tr>
                             <td>
                         		<a target:"_blank" href="http://ros-burenie.ru/?utm_source=rseptik&utm_medium=ref"><img src="img/banner_burenie.png" alt=""></a>
-                                    
+
                             </td>
                             <td>
                         		<a target:"_blank" href="http://new-mesto.ru/otoplenie/?utm_source=rseptik&utm_medium=ref"><img src="img/banner_otoplenie.png" alt=""></a>
@@ -1932,8 +1930,8 @@ header('Content-type: text/html; charset=UTF-8');
 				</div>
 			</div>
 		</div>
-                        
-                        
+
+
 		<div class="section  section-reviews  reviews" id="reviews">
 			<div class="container_1260">
 				<div class="reviews-in">
@@ -2148,7 +2146,7 @@ header('Content-type: text/html; charset=UTF-8');
 						<button class="map_obj-carousel_item_btn  js-showonmap  hvr-shutter-in-horizontal" data-id="230">Показать</button>
 					</li>
                     <li class="map_obj-carousel_item">
-						
+
 					</li>
 				</ul>
 			</div>
@@ -2172,7 +2170,7 @@ header('Content-type: text/html; charset=UTF-8');
                           <div id="vk_groups"></div>
                           <script type="text/javascript">
                           VK.Widgets.Group("vk_groups", {mode: 0, width: "460", height: "215", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 78454249);
-                          </script>                        
+                          </script>
                         </td>
                         <td>
                           <div id="ok_group_widget"></div>
@@ -2199,10 +2197,10 @@ header('Content-type: text/html; charset=UTF-8');
         </div>
 
 	</div><!-- /main -->
-    
+
 
 	<div class="footer">
-   
+
 
 		<div class="contacts  container_960  clearfix">
 			<a class="contacts-logo" href="/"><img src="img/logo.png" alt="Новое место — Инженерные системы"></a>
@@ -2215,7 +2213,7 @@ header('Content-type: text/html; charset=UTF-8');
 				<button class="contacts-feedback_btn  js-fancymodal" data-fancybox-href="#callback" data-target="callback" type="button">Получить консультацию</button>
 			</div>
 		</div>
-		        
+
 		<div class="footer-copy">© 2015, Новое место</div>
 	</div><!-- /footer -->
 
